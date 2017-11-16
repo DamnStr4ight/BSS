@@ -1,0 +1,1 @@
+You can simply add this zip file to your order at  https://www.seeedstudio.com/fusion_pcb.html and the PCB will arrive around 10 days later.
