@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR12_2
+Added Member To Class: ClassName=Sensorkort Member=Component J11 Joystick
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

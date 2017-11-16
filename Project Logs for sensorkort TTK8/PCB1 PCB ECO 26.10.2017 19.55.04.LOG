@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=CAN Member=R?
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Designator: OldDesignator=B? NewDesignator=B2
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR9_1
+Added Pin To Net: NetName=NetQ1_1 Pin=R8-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=R9-2
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=Sensorkort Member=Component R8 10k
+Added Member To Class: ClassName=Sensorkort Member=Component R9 10k
+Added Member To Class: ClassName=Sensorkort Member=Component R10 10k

@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=U1-8
+Added Component: Designator=J?(HDRV3W64P254_1X3_762X254X900B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "beskrivelse"; Value = "2,54mm pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "Header 1x3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "13.11.2014 12.31.03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "13.11.2014 10.59.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV5W64P254_1X5_1270X254X900B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "beskrivelse"; Value = "2,54mm pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2432"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "Header 1x5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "13.11.2014 12.31.31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "13.11.2014 10.59.18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2447230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Resistor Motstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "08.07.2014 21.15.30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Multikomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "08.07.2014 21.16.33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=VCC Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=R?-1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=RXCAN
+Added Pin To Net: NetName=JOY_SW Pin=J?-1
+Added Pin To Net: NetName=JOY_SW Pin=U3-68
+Added Net: Name=JOY_SW
+Added Pin To Net: NetName=JOY_X Pin=J?-3
+Added Pin To Net: NetName=JOY_X Pin=U3-82
+Added Net: Name=JOY_X
+Added Pin To Net: NetName=JOY_Y Pin=J?-2
+Added Pin To Net: NetName=JOY_Y Pin=U3-84
+Added Net: Name=JOY_Y
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U1-8
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=WATER Pin=J?-1
+Added Pin To Net: NetName=WATER Pin=U3-66
+Added Net: Name=WATER
+Added Member To Class: ClassName=Sensorkort Member=Component J? Water sensor
+Added Member To Class: ClassName=Sensorkort Member=Component J? Joystick
+Added Member To Class: ClassName=CAN Member=Component R? 10k
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

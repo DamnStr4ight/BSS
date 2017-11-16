@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Voltage_supply Member=C1
+Removed Member From Class: ClassName=Voltage_supply Member=C2
+Removed Member From Class: ClassName=Voltage_supply Member=C5
+Removed Member From Class: ClassName=Voltage_supply Member=C6
+Removed Member From Class: ClassName=Voltage_supply Member=C7
+Removed Member From Class: ClassName=main Member=C8
+Removed Member From Class: ClassName=main Member=C9
+Removed Member From Class: ClassName=main Member=C10
+Removed Member From Class: ClassName=main Member=C11
+Removed Member From Class: ClassName=main Member=J5
+Removed Member From Class: ClassName=main Member=R1
+Removed Member From Class: ClassName=Voltage_supply Member=U1
+Removed Member From Class: ClassName=Voltage_supply Member=U2
+Change Class Name : Old Net Name=main New Net Name=Sensorkort
+Added Room: Name=Sensorkort

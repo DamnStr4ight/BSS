@@ -1,0 +1,356 @@
+Change Component Comment : Designator=J1 Old Comment=SPI New Comment=ISP
+Added Component: Designator=C?(CAPC0603(1608)55_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "3026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "1865484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "91pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Kondensator, Capacitor, CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "18.02.2015 14.18.13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "14.11.2014 20.19.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603(1608)55_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "3026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "1865484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "91pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Kondensator, Capacitor, CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "18.02.2015 14.18.13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "14.11.2014 20.19.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603(1608)55_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "3028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "1759122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Kondensator, Capacitor, CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "18.02.2015 14.18.13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Multikomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "14.11.2014 20.19.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=D?(I_LEDC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "beskrivelse"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Fremlager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2251459"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "SMD LED Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "diode, led, lys, blå"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "06.07.2014 18.55.44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "OV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "06.07.2014 18.59.47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=D?(I_LEDC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "beskrivelse"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Fremlager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2251459"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "SMD LED Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "diode, led, lys, blå"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "06.07.2014 18.55.44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "OV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "06.07.2014 18.59.47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=D?(I_LEDC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "beskrivelse"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Fremlager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2251459"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "SMD LED Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "diode, led, lys, blå"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "06.07.2014 18.55.44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "OV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "06.07.2014 18.59.47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=D?(I_LEDC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "beskrivelse"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Fremlager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2251459"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "SMD LED Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "diode, led, lys, blå"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "06.07.2014 18.55.44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "OV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "06.07.2014 18.59.47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV4W64P254_1X4_1016X254X900B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "beskrivelse"; Value = "2,54mm pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2431"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "Header 1x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "13.11.2014 12.31.18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "13.11.2014 10.59.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CTB932HD_4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "beskrivelse"; Value = "Skruplint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2281"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2493648 / 2493679"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "Pluggbar skrukobling x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Terminal Block"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "31.05.2017 20.51.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "1150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Camdenboss"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "13.11.2014 10.59.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CTB932HD_4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "beskrivelse"; Value = "Skruplint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2281"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2493648 / 2493679"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "Pluggbar skrukobling x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Terminal Block"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "31.05.2017 20.51.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "1150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Camdenboss"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "13.11.2014 10.59.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV4W64P254_1X4_1016X254X900B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "beskrivelse"; Value = "2,54mm pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2431"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "Header 1x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "13.11.2014 12.31.18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "13.11.2014 10.59.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2447230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Resistor Motstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "08.07.2014 21.15.30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Multikomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "08.07.2014 21.16.33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2447230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Resistor Motstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "08.07.2014 21.15.30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Multikomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "08.07.2014 21.16.33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2447230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Resistor Motstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "08.07.2014 21.15.30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Multikomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "08.07.2014 21.16.33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "2447230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Resistor Motstand"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "08.07.2014 21.15.30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Multikomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "08.07.2014 21.16.33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CrystalTH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "3915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Fremlager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "Krystalloscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "krystall, crystal, oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "29.01.2017 21.01.52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "1150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "OV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "23.08.2014 20.23.20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "774"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=VCC Pin=J?-2
+Added Pin To Net: NetName=VCC Pin=J?-2
+Added Pin To Net: NetName=1_WIRE Pin=J?-3
+Added Pin To Net: NetName=1_WIRE Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=VCC Pin=U2-18
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U2-8
+Added Pin To Net: NetName=NetC?_2 Pin=X?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=U2-11
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=SCL Pin=J?-4
+Added Pin To Net: NetName=SCL Pin=J?-4
+Added Pin To Net: NetName=SCL Pin=U3-43
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J?-3
+Added Pin To Net: NetName=SDA Pin=J?-3
+Added Pin To Net: NetName=SDA Pin=U3-44
+Added Net: Name=SDA
+Added Member To Class: ClassName=CAN Member=Component C? 15pF
+Added Member To Class: ClassName=CAN Member=Component C? 15pF
+Added Member To Class: ClassName=CAN Member=Component C? 100nF
+Added Member To Class: ClassName=CAN Member=Component D? RX0BF
+Added Member To Class: ClassName=CAN Member=Component D? RX1BF
+Added Member To Class: ClassName=CAN Member=Component D? TXCAN
+Added Member To Class: ClassName=CAN Member=Component D? RXCAN
+Added Member To Class: ClassName=Sensorkort Member=Component J? I2C/Screen
+Added Member To Class: ClassName=Sensorkort Member=Component J? DS18B20
+Added Member To Class: ClassName=Sensorkort Member=Component J? DS18B20
+Added Member To Class: ClassName=Sensorkort Member=Component J? I2C/Screen
+Added Member To Class: ClassName=CAN Member=Component R? 10K
+Added Member To Class: ClassName=CAN Member=Component R? 10k
+Added Member To Class: ClassName=CAN Member=Component R? 10k
+Added Member To Class: ClassName=CAN Member=Component R? 10k
+Added Member To Class: ClassName=CAN Member=Component X? 20Mhz
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

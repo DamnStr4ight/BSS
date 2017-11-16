@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=*1-0
+Removed Pin From Net: NetName=GND Pin=*1-0
+Removed Pin From Net: NetName=GND Pin=*1-0
+Removed Pin From Net: NetName=GND Pin=*1-0
+Removed Pin From Net: NetName=GND Pin=*1-R1
+Removed Pin From Net: NetName=GND Pin=*1-R2
+Removed Pin From Net: NetName=GND Pin=*1-R3
+Removed Pin From Net: NetName=VCC Pin=*1-R6
+Removed Pin From Net: NetName=VCC Pin=*1-R7
+Removed Pin From Net: NetName=VCC Pin=*1-R8
+Removed Member From Class: ClassName=CAN Member=*1
+Added Pin To Net: NetName=VCC Pin=B1-1
+Added Pin To Net: NetName=VCC Pin=B1-2
+Added Pin To Net: NetName=VCC Pin=B1-3
+Added Pin To Net: NetName=GND Pin=B1-6
+Added Pin To Net: NetName=GND Pin=B1-7
+Added Pin To Net: NetName=GND Pin=B1-8
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetB1_4 Pin=R1-1
+Added Pin To Net: NetName=NetB1_4 Pin=U1-7
+Added Net: Name=NetB1_4
+Added Pin To Net: NetName=NetB1_5 Pin=B1-5
+Added Pin To Net: NetName=NetB1_5 Pin=R1-2
+Added Pin To Net: NetName=NetB1_5 Pin=U1-6
+Added Net: Name=NetB1_5
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

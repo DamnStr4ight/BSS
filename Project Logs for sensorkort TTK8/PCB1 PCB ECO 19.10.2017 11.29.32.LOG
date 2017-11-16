@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=AVCC
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=CAN Member=C?
+Change Component Footprint: Designator=C? Old Footprint=CAPC0603(1608)55_N New Footprint=CAPC0603(1608)55_N
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC16_1

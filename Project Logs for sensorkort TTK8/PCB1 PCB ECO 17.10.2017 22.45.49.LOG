@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=C? Old Footprint=CAPC0603(1608)55_N New Footprint=CAPC0603(1608)55_N
+Change Component Footprint: Designator=C? Old Footprint=CAPC0603(1608)55_N New Footprint=CAPC0603(1608)55_N
+Change Component Footprint: Designator=C? Old Footprint=CAPC0603(1608)55_N New Footprint=CAPC0603(1608)55_N
+Change Component Footprint: Designator=D? Old Footprint=I_LEDC0603(1608)_N New Footprint=I_LEDC0603(1608)_N
+Change Component Footprint: Designator=D? Old Footprint=I_LEDC0603(1608)_N New Footprint=I_LEDC0603(1608)_N
+Change Component Footprint: Designator=D? Old Footprint=I_LEDC0603(1608)_N New Footprint=I_LEDC0603(1608)_N
+Change Component Footprint: Designator=D? Old Footprint=I_LEDC0603(1608)_N New Footprint=I_LEDC0603(1608)_N
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R? Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_N
+Added Member To Class: ClassName=CAN Member=Component C? 15pF
+Added Member To Class: ClassName=CAN Member=Component C? 15pF
+Added Member To Class: ClassName=CAN Member=Component D? RX0BF
+Added Member To Class: ClassName=CAN Member=Component D? TXCAN
+Added Member To Class: ClassName=CAN Member=Component D? RXCAN
+Added Member To Class: ClassName=Sensorkort Member=Component J? I2C/Screen
+Added Member To Class: ClassName=Sensorkort Member=Component J? DS18B20
+Added Member To Class: ClassName=Sensorkort Member=Component J? DS18B20
+Added Member To Class: ClassName=CAN Member=Component R? 10k
+Added Member To Class: ClassName=CAN Member=Component R? 10k
+Added Member To Class: ClassName=CAN Member=Component R? 10k
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

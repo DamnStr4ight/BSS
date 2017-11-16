@@ -1,0 +1,34 @@
+Removed Member From Class: ClassName=CAN Member=R8
+Removed Member From Class: ClassName=CAN Member=R9
+Added Component: Designator=Q1(TO-220-3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "antall"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design comment"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dybde"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hylle"; Value = "600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "kolonne"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lager_type"; Value = "Baklager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "8648620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "IRF9540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "09.06.2015 21.08.41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rad"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rom"; Value = "GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "14.09.2016 17.38.26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "1150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified date"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BATTERY_LEVEL Pin=Q1-1
+Added Pin To Net: NetName=12V Pin=Q1-3
+Added Pin To Net: NetName=BATTERY_LEVEL Pin=R8-1
+Added Pin To Net: NetName=12V Pin=R8-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R9-2
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=Sensorkort Member=Component Q1 IRF9540

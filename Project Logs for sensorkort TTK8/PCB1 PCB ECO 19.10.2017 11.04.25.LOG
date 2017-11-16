@@ -1,0 +1,41 @@
+Added Component: Designator=B?(1-406541-1_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70042871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/7820823"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-406541-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "2508293174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603(1608)55_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "3028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "leverandor_varenr"; Value = "1759122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "navn"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nokkelord"; Value = "Kondensator, Capacitor, CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet"; Value = "18.02.2015 14.18.13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakke_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pakketype"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pris"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "produsent"; Value = "Multikomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet"; Value = "14.11.2014 20.19.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "symbol_opprettet_av"; Value = "815"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=B?-1
+Added Pin To Net: NetName=VCC Pin=B?-2
+Added Pin To Net: NetName=VCC Pin=B?-3
+Added Pin To Net: NetName=NetB1_4 Pin=B?-4
+Added Pin To Net: NetName=NetB1_5 Pin=B?-5
+Added Pin To Net: NetName=GND Pin=B?-6
+Added Pin To Net: NetName=GND Pin=B?-7
+Added Pin To Net: NetName=GND Pin=B?-8
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Member To Class: ClassName=CAN Member=Component B? 1-406541-1
+Added Member To Class: ClassName=CAN Member=Component C? 100nF
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

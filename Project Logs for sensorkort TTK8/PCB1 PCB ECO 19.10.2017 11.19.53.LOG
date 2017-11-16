@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=B1-11
+Removed Pin From Net: NetName=GND Pin=B1-12
+Removed Pin From Net: NetName=GND Pin=B?-11
+Removed Pin From Net: NetName=GND Pin=B?-12
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

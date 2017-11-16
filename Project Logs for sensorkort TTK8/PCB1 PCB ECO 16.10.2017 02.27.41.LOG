@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=Buzzer Pin=R3-1
+Added Pin To Net: NetName=Buzzer Pin=U?-72
+Added Net: Name=Buzzer
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R3-2
+Added Net: Name=NetJ3_1
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply

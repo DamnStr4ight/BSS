@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1-406541-1
+#/233123/22980/2.16/8/4/Connector
+DEF 1-406541-1 J 0 30 Y Y 1 F N
+F0 "J" 350 150 50 H V C CNN
+F1 "1-406541-1" 350 -450 50 H V C CNN
+F2 "1-406541-1_1" 350 -550 50 H I C CNN
+F3 "http://uk.rs-online.com/web/p/products/7820823" 350 -650 50 H I C CNN
+F4 "ModJack,RightAngle,8Position,Cat5 TE Connectivity Female Cat5 RJ45 Connector, Right Angle, Through Hole Mount," 350 -750 50 H I C CNN "Description"
+F5 "RS" 350 -850 50 H I C CNN "Supplier_Name"
+F6 "2508293174" 350 -950 50 H I C CNN "RS Part Number"
+F7 "TE Connectivity" 350 -1050 50 H I C CNN "Manufacturer_Name"
+F8 "1-406541-1" 350 -1150 50 H I C CNN "Manufacturer_Part_Number"
+F9 "70042871" 350 -1250 50 H I C CNN "Allied_Number"
+F10 "" 350 -1350 50 H I C CNN "Other Part Number"
+F11 "" 550 -1450 50 H I C CNN "Height"
+DRAW
+S 200 100 500 -400 0 0 10 f
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 0 -300 200 R 50 50 0 0 U
+X 5 5 700 0 200 L 50 50 0 0 U
+X 6 6 700 -100 200 L 50 50 0 0 U
+X 7 7 700 -200 200 L 50 50 0 0 U
+X 8 8 700 -300 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

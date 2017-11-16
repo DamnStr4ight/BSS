@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C? Old Footprint=CAPC0603(1608)55_N New Footprint=CAPC0603(1608)55_N
+Change Net Name : Old Net Name=NetB1_4 New Net Name=CANH
+Change Net Name : Old Net Name=NetB1_5 New Net Name=CANL
+Added Member To Class: ClassName=CAN Member=Component B1 1-406541-1
+Added Room: Name=CAN
+Added Room: Name=Sensorkort
+Added Room: Name=Voltage_supply
